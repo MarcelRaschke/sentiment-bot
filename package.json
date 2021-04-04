@@ -22,7 +22,7 @@
     "js-yaml": "^3.9.0",
     "perspective-api-client": "^2.0.0",
     "probot": "^7.2.0",
-    "request": "^2.81.0"
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "eslint-plugin-import": "^2.14.0",
